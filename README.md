@@ -1,18 +1,37 @@
-## Getting Started
+# Projeto de Exercícios de POO – Prof. Ricardo (ETEC)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório oficial com os exercícios práticos de **Programação Orientada a Objetos (POO)**, desenvolvidos conforme as atividades propostas pelo Professor Ricardo na ETEC.
 
-## Folder Structure
+> 🔗 **Repositório principal:** [https://github.com/Centralbobcat54/Prof.Ricardo-Etec](https://github.com/Centralbobcat54/Prof.Ricardo-Etec)
 
-The workspace contains two folders by default, where:
+## 📚 Descrição
+Este projeto contém diversos exercícios resolvidos em **Python**, abordando os principais conceitos de POO.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Estrutura do Projeto
+```
+📦 Prof.Ricardo-Etec
+ ┣ 📜 README.md
+ ┣ 📁 Exercicios_Poo
+ ┃ ┣ terreno.py
+ ┃ ┣ retangulo.py
+ ┃ ┣ aluno.py
+ ┃ ┗ conta_bancaria.py
+```
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🧠 Como Executar
+1. Certifique-se de ter o **Python 3.8+** instalado.
+2. Faça o clone do repositório:
+   ```bash
+   git clone https://github.com/Centralbobcat54/Prof.Ricardo-Etec.git
+   ```
+3. Acesse a pasta dos exercícios:
+   ```bash
+   cd Prof.Ricardo-Etec/Exercicios_Poo
+   ```
+4. Execute qualquer arquivo:
+   ```bash
+   python nome_do_arquivo.py
+   ```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🧾 Licença
+Uso educacional e livre para estudo.
